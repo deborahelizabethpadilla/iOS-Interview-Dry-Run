@@ -39,7 +39,7 @@ This does not make sense for the fact that UserDefualts is only best when used t
 
 Considering the information being sent between View Controllers contains lots of information about an Actor, I would use CoreData instead. By using NSManagedObject, I can store majority of all the data for the project. Afterwards, I would create a segue in code using an identifier to transfer the data between View Controllers.  
 
-**Imagine that you have been given a project that has this GithubProjectViewController. The GithubProjectViewController should be used to display high-level information about a GitHub project. However, it’s also responsible for finding out if there’s network connectivity, connecting to GitHub, parsing the responses and persisting information to disk. It is also one of the biggest classes in the project. Follow-up question:: How might you improve the design of this view controller? **
+**Imagine that you have been given a project that has this GithubProjectViewController. The GithubProjectViewController should be used to display high-level information about a GitHub project. However, it’s also responsible for finding out if there’s network connectivity, connecting to GitHub, parsing the responses and persisting information to disk. It is also one of the biggest classes in the project. Follow-up question:: How might you improve the design of this view controller?**
 
 In order to improve the design of the View Controller, I would add a Table View with Table View Cells. Inside the Table View Cell, I would insert four labels. These labels would represent the title of the project, the GitHub repo web link, an error/connected message and a complete button that allows users to know the information persisted to the disk. 
 
