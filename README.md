@@ -22,7 +22,8 @@ Overall, I would set up a Table View Controller that has a Table View Cell embed
 
 By implementing delegate and data source methods to our Table View Cell, we can use ‘numberOfRowsInSection” in order to customize our information when a Table Cell is demonstrated. This can display how many cells of information appear at once. I would also implement “cellForRowAt indexPath” and “didSelectRowAt indexPath” in order to store any additional information as an Array in the view. Doing these methods, would help execute of viewing cells at 60 frames per second. 
 
-For example, when specifying code in “numberOfRowsInSection”, this would indicate how many rows you’d like to appear. For example, in my project ‘OnTheMap’, I wrote: 
+For example, when specifying code in “numberOfRowsInSection”, this would indicate how many rows you’d like to appear. For example, in my project ‘OnTheMap’, I wrote:
+
 ‘if UsersInfo.UsersArray.count>100 {
 return UsersInfo.UsersArray.count
 }
@@ -49,7 +50,7 @@ In addition, I would create a new .Swift file that strictly contains the network
 
 In a year from now, I hope to contribute to projects that support innovation and helping others. In order to achieve this, I would continue to learn new strategies in order to compliment the knowledge I already am aware of. I’m a big believer in practice makes perfect and I know as long as I keep an open mind to new information, while I continue to practice, that I’ll be able to meet goals and apply creative decisions to any project I undertake. 
 
-In order to be a great asset to any company or project, I strongly encourage anybody to involve themselves in whatever they are passionate about and the values they share. Indefinitely, I will be working for someone who compliments these things when it comes to my personal passions and values. This will not only allow me to succeed, but exceed expectations within myself as well as the client. 
+In order to be a great asset to any company or project, I strongly encourage anybody to involve themselves in whatever they are passionate about and the values they share. Indefinitely, I will be working for someone who compliments these things when it comes to my personal passions and values. This will not only allow me to succeed, but exceed expectations within myself as well as with the client. 
 
 
 
