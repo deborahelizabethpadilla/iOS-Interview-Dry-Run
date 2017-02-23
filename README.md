@@ -24,13 +24,13 @@ By implementing delegate and data source methods to our Table View Cell, we can 
 
 For example, when specifying code in “numberOfRowsInSection”, this would indicate how many rows you’d like to appear. For example, in my project ‘OnTheMap’, I wrote:
 
-‘if UsersInfo.UsersArray.count>100 {
+```if UsersInfo.UsersArray.count>100 {
 return UsersInfo.UsersArray.count
 }
 else {
 return 100
 }
-}
+}```
 
 This would appear no more than 100 rows in the Table View Cell. Depending on the information you’d like to provide with it and how you would like to customize it, you could also implement “didSelectRowAt indexPath” or even “cellForRowAt indexPath”.  
 
