@@ -20,9 +20,9 @@ Overall, I would set up a ```Table View Controller``` that has a ```Table View C
 
 **Describe some techniques that can be used to ensure that a UITableView containing many UITableViewCell is displayed at 60 frames per second.**
 
-By implementing delegate and data source methods to our Table View Cell, we can use ‘numberOfRowsInSection” in order to customize our information when a Table Cell is demonstrated. This can display how many cells of information appear at once. I would also implement “cellForRowAt indexPath” and “didSelectRowAt indexPath” in order to store any additional information as an Array in the view. Doing these methods, would help execute of viewing cells at 60 frames per second. 
+By implementing ```delegate``` and ```data source``` methods to our ```Table View Cell```, we can use ```numberOfRowsInSection``` in order to customize our information when a ```Table Cell``` is demonstrated. This can display how many ```cells``` of information appear at once. I would also implement ```cellForRowAt indexPath``` and ```didSelectRowAt indexPath``` in order to store any additional information as an ```Array``` in the view. Doing these methods, would help execute of viewing ```cells``` at 60 frames per second. 
 
-For example, when specifying code in “numberOfRowsInSection”, this would indicate how many rows you’d like to appear. For example, in my project ‘OnTheMap’, I wrote:
+For example, when specifying code in ```numberOfRowsInSection```, this would indicate how many rows you’d like to appear. For example, in my project ```OnTheMap```, I wrote:
 
 ```if UsersInfo.UsersArray.count>100 {
 return UsersInfo.UsersArray.count
