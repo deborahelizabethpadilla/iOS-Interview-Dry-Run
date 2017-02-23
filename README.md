@@ -32,7 +32,7 @@ return 100
 }
 }```
 
-This would appear no more than 100 rows in the Table View Cell. Depending on the information you’d like to provide with it and how you would like to customize it, you could also implement “didSelectRowAt indexPath” or even “cellForRowAt indexPath”.  
+This would appear no more than 100 rows in the Table View Cell. Depending on the information you’d like to provide with it and how you would like to customize it, you could also implement ```didSelectRowAt indexPath``` or even ```cellForRowAt indexPath```.  
 
 **Imagine that you have been given a project that has this ActorViewController. The ActorViewController should be used to display information about an actor. However, to send information to other ViewControllers, it uses NSUserDefaults. Does this make sense to you? How would you send information from one ViewController to another one?**
 
