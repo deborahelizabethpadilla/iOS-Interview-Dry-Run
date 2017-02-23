@@ -4,7 +4,7 @@
 
 In the past year, I have learned a lot. Importantly, one of the best parts about being an ```iOS``` Developer is that you can utilize the ```Swift``` programming language to fit your needs by using different methods of code. This gives you plenty of freedom in order to reach your creative goals. 
 
-Learning how to use ```Git``` and ```GitHub``` has complimented my role as a developer. Often I make commits, generate pull requests and revert commits in order to add better value to my projects. This has not only made it more efficient for me to succeed at any project I undertake, but it has helped projects run more efficiently when working in group settings.
+Learning how to use ```Git``` and ```GitHub``` has complimented my role as a developer. I can make commits, generate pull requests and revert commits in order to add better value to my projects. This has not only made it more efficient for me to succeed at any project I undertake, but it has helped projects run more efficiently when working in group settings.
 
 **Can you talk about a framework that you've used recently (Apple or third-party)? What did you like/dislike about the framework?**
 
