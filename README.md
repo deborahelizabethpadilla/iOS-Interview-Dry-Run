@@ -50,7 +50,9 @@ In addition, I would create a new ```.Swift``` file that strictly contains the n
 
 **If you were to start your ```iOS``` developer position today, what would be your goals a year from now?**
 
-In a year from now, I hope to contribute to projects that support innovation and helping others. In order to achieve this, I would continue to learn new strategies in order to compliment the knowledge I already am aware of. I’m a big believer in practice makes perfect and I know as long as I keep an open mind to new information, while I continue to practice, that I’ll be able to meet goals and apply creative decisions to any project I undertake. 
+In a year from now, I hope to contribute to projects that support innovation when it comes to fitness and bettering their lives. In order to achieve this, I would continue to learn new strategies in order to compliment the knowledge I already am aware of technically and physically. I’m a big believer in practice makes perfect and I know as long as I keep an open mind to new information, while I continue to practice, that I’ll be able to meet goals and apply creative decisions to any project I undertake.
+
+Aside from technical skills, I contribute to Crossfit activities and other fitness exercises in order to better my well being. I would love the oppurtinity to help others improve their well being also, no matter what their goals are. I feel that fitness applications will not only make it convienent for consumers to utilize, but take a new approach on what fitness means to them. I'd love to join a team where these aspects are emphaized in order to create a successful application.
 
 In order to be a great asset to any company or project, I strongly encourage anybody to involve themselves in whatever they are passionate about and the values they share. Indefinitely, I will be working for someone who compliments these things when it comes to my personal passions and values. This will not only allow me to succeed, but exceed expectations within myself as well as with the client. 
 
